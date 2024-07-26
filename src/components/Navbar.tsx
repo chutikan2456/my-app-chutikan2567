@@ -3,7 +3,7 @@ import React from 'react';
 export default function Navbar() {
   return (
     <div>
-      Navbar
+      
       <div className='flex justify-center '>
         <div className='self-center top-0 w-full max-w-7xl '>
           <div className='flex justify-between items-center text-gray-700'>
@@ -24,7 +24,7 @@ export default function Navbar() {
                 <a href='/about'>เกี่ยวกับ</a>
               </li>
               <li className='text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1'>
-                <a href='/ai'>AI ขับเคลื่อนนโยบายสาธารฌะ</a>
+                <a href='/evalution'>AI ขับเคลื่อนนโยบายสาธารฌะ</a>
               </li>
               <li className='text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1'>
                 <a href='#'>chatGPT</a>
